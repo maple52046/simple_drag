@@ -1,5 +1,5 @@
 name: simple_drag
-description: The DraggableAndDragTargetWidget allows for dynamic data types by using generics, enabling the data type to be changed based on the input. It combines the Draggable and DragTarget widgets, allowing the widget to be both draggable and a drag target simultaneously.
+description: The SimpleDrag allows for dynamic data types by using generics, enabling the data type to be changed based on the input. It combines the Draggable and DragTarget widgets, allowing the widget to be both draggable and a drag target simultaneously.
 version: 0.0.1
 homepage:
 

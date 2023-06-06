@@ -11,6 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
+# SimpleDrag
+
 SimpleDrag is an open-source Flutter package that provides a versatile and customizable widget for implementing drag-and-drop functionality in your Flutter applications. With this widget, you can easily enable drag and drop interactions between various widgets, allowing users to intuitively rearrange and exchange data within your app.
 
 ## Features
@@ -27,10 +29,10 @@ SimpleDrag is an open-source Flutter package that provides a versatile and custo
 
 To start using SimpleDrag in your Flutter project, follow these steps:
 
-Add the SimpleDrag package as a dependency in your pubspec.yaml file.
-Import the package into your Dart code using import 'package:draggable_and_drag_target_widget/draggable_and_drag_target_widget.dart';.
-Create an instance of SimpleDrag, specifying the draggable and drag target widgets, and any desired customization options.
-Use the SimpleDrag instance in your app's UI to enable drag-and-drop functionality.
+1. Add the `SimpleDrag` package as a dependency in your `pubspec.yaml` file.
+2. Import the package into your Dart code using import `'package:simple_drag/simple_drag.dart';`.
+3. Create an instance of `SimpleDrag`, specifying the draggable and drag target widgets, and any desired customization options.
+4. Use the SimpleDrag instance in your app's UI to enable drag-and-drop functionality.
 
 For more details, refer to the documentation and examples provided with the package.
 
@@ -43,12 +45,6 @@ to `/example` folder.
 const like = 'sample';
 ``` -->
 
-For more details, refer to the documentation and examples provided with the package.
-
 ## Contributing
 
 Contributions to SimpleDrag are welcome! If you encounter any issues or have ideas for improvements, please submit them through the project's GitHub repository. Feel free to contribute code enhancements, bug fixes, or new features by creating pull requests.
-
-## License
-
-SimpleDrag is released under the MIT License, granting you the freedom to use, modify, and distribute the package according to the terms of the license.
